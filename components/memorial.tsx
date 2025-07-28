@@ -32,8 +32,7 @@ const memorialData: MemorialData = {
   deathDate: "15/03/2008",
   age: 90,
   restingPlace: "Cemitério Municipal de Iguatama, Iguatama - MG",
-  importantDates:
-    "Casamento: 15/03/2010\nNascimento do primeiro filho: 22/08/2012\nFormatura em Engenharia: 10/12/2005",
+  importantDates:"",
   profession: "",
   religion: "Católica",
   hobbies: "",
