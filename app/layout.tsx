@@ -6,7 +6,7 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Memorial Template",
+  title: "Remember Lalae",
   description: "Template para criação de memoriais online",
     generator: 'v0.dev'
 }
